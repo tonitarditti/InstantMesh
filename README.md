@@ -49,6 +49,11 @@ pip install xformers==0.0.22.post7
 pip install -r requirements.txt
 ```
 
+Windows note (no NVlabs/nvdiffrast hard dependency by default):
+```bash
+pip install -r requirements-windows.txt
+```
+
 # 💫 How to Use
 
 ## Download the models
