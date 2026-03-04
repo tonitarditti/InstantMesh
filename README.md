@@ -143,3 +143,18 @@ We thank the authors of the following projects for their excellent contributions
 
 Thank [@camenduru](https://github.com/camenduru) for implementing [Replicate Demo](https://replicate.com/camenduru/instantmesh) and [Colab Demo](https://colab.research.google.com/github/camenduru/InstantMesh-jupyter/blob/main/InstantMesh_jupyter.ipynb)!  
 Thank [@jtydhr88](https://github.com/jtydhr88) for implementing [ComfyUI support](https://github.com/jtydhr88/ComfyUI-InstantMesh)!
+
+## Windows VOLUMIA + ComfyUI shared model path
+
+For a safe migration guide to move ComfyUI + model assets from `C:` to `E:` with a single shared model root, see `docs/volumia/e-drive-comfyui-migration.md`.
+
+
+## UI Dashboard demo (React + Tailwind)
+
+Se agregó un dashboard modular de ejemplo para gestión de proyectos arquitectónicos en `frontend/dashboard` con:
+
+- `ProjectCard`
+- `SystemPanel`
+- `DashboardLayout`
+
+Incluye búsqueda, filtros por categoría/estado, menú de acciones rápidas y notificaciones tipo toast con datos precargados.

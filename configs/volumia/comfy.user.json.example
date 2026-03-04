@@ -1,0 +1,7 @@
+{
+  "comfyDir": "E:\\AI\\ComfyUI_VOL",
+  "host": "127.0.0.1",
+  "port": 8188,
+  "pythonExeOverride": "F:\\MINICONDA\\envs\\volumia\\python.exe",
+  "args": ["main.py", "--listen", "127.0.0.1", "--port", "8188"]
+}
