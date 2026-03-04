@@ -1,0 +1,12 @@
+checkpoints:
+  - E:\AI\MODELS\checkpoints
+controlnet:
+  - E:\AI\MODELS\controlnet
+sam:
+  - E:\AI\MODELS\sam
+vae:
+  - E:\AI\MODELS\vae
+loras:
+  - E:\AI\MODELS\loras
+clip:
+  - E:\AI\MODELS\clip
